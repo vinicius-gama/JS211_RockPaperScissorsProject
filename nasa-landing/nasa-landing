@@ -1,0 +1,68 @@
+body{
+    width: 850px;
+    margin: 0 auto;
+}
+
+
+main {
+    margin: 0 auto;
+    height: 450px;
+    background-image: url(hd-wallpaper-ge9b0d1536_1920.jpg);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mukta', sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px ;
+    
+}
+
+section {
+    display: flex;
+    height: 324px;
+    flex-direction: row;
+    justify-content: space-between;
+    column-gap: 20px;
+    background-color:rgb(224, 222, 222);
+    padding: 20px;
+    padding-top:0%;
+
+    
+    
+}
+
+.section {
+     height: 60%;
+}
+
+
+article {
+    width: 270px;
+    height:374px;
+    background-color:rgb(224, 222, 222);
+    font-family: 'Mukta', sans-serif;
+    color: gray;
+}
+.flex-container{
+    display: flex;
+    width: 30px;
+    color: white;
+}
+button{
+    align-items: flex-start;
+}
+
+input {
+    display: block;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding-top: 0.625em;
+    padding-bottom: 0.625em;
+    padding-left: 0.625em;
+    padding-right: 0.5em;
+    border: 1px groove (internal value);
+  }
+  h2 {
+    color: black;
+  }
